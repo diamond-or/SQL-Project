@@ -9,5 +9,6 @@ Layoff rates by industry and region.
 Month-over-month and year-over-year comparisons.
 Identification of most impacted sectors and trends.
 Statistical Insights: Delivered meaningful numerical trends without the use of visualizations.
-Tools Used
+
+## Tools Used
 SQL: For data cleaning, transformation, and statistical analysis.
